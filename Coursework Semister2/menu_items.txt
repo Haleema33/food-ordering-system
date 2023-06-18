@@ -1,0 +1,23 @@
+1|The Karachi Kitchen|Chicken Biryani|Delicious chicken biryani with aromatic spices|245|20
+2|The Karachi Kitchen|Beef Nihari|Slow-cooked beef nihari with flavorful spices|350.00|15
+3|Lahore Delights|Chicken Karahi|Spicy chicken karahi cooked with fresh ingredients|300.00|25
+4|Lahore Delights|Mutton Korma|Delicious mutton korma with a rich, creamy sauce|350.00|20
+5|Islamabad Palace|Chicken Handi|Tender chicken handi cooked in a creamy sauce|320|30
+6|Islamabad Palace|Paneer Tikka|Grilled paneer tikka with a spicy marinade|275.00|25
+7|Peshawar House|Chapli Kabab|Spicy chapli kabab made with minced meat and spices|200.00|40
+8|Peshawar House|Peshawari Chicken|Flavorful Peshawari chicken with traditional spices|300.00|30
+9|Quetta Cuisine|Quetta Pulao|Aromatic Quetta pulao with tender meat and spices|249.00|35
+12|Karachi BBQ|Seekh Kebab|Delicious seekh kebab made with minced meat|200.00|20
+13|Lahore Tandoor|Tandoori Chicken|Spicy tandoori chicken cooked in a clay oven|300.00|25
+14|Lahore Tandoor|Naan|Fluffy naan baked in a tandoor oven|50.00|20
+15|Islamabad Grill|Grilled Fish|Grilled fish marinated with spices and herbs|396.00|30
+16|Islamabad Grill|Reshmi Kebab|Soft reshmi kebab made with minced chicken|271|25
+17|Peshawar Kabab House|Kabab Roll|Spicy kabab roll with fresh ingredients|200.00|40
+18|Peshawar Kabab House|Chicken Boti|Marinated chicken boti grilled to perfection|275.00|30
+19|Quetta Biryani|Quetta Style Biryani|Aromatic Quetta style biryani with tender meat and spices|275.00|35
+20|Quetta Biryani|Quetta Style Haleem|Delicious Quetta style haleem with a blend of spices and lentils|300.00|25
+21|Quetta Cuisine|Palou|Spicy rice served with yogurt mixed with zeehra|273.00|17
+22|Lahore Tandoor|Roti|Freshly rolled dough made on hot steel pan|21.00|100
+23|Lahore Tandoor|Butter Chicken|Creamy and spiced chicken cooked to perfection|500.00|30
+24|Lahore Tandoor|Garlic Naan|The best naan for all dishes|50.00|25
+26|Islamabad Palace|Keema|minced beef perfected with spicies|250.0|30

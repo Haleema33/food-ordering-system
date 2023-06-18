@@ -1,0 +1,9 @@
+1,The Karachi Kitchen,Karachi,Pakistani,karachikitchen@example.com,kitchen123
+2,Lahore Delights,Lahore,Pakistani,lahoredelights@example.com,delights456
+3,Islamabad Palace,Islamabad,Pakistani,islamabadpalace@example.com,palace789
+4,Peshawar House,Peshawar,Pakistani,peshawarhouse@example.com,house101
+5,Quetta Cuisine,Quetta,Pakistani,quettacuisine@example.com,cuisine102
+6,Karachi BBQ,Karachi,Pakistani,karachibbq@example.com,bbq123
+7,Lahore Tandoor,Lahore,Pakistani,lahoretandoor@example.com,tandoor456
+8,Islamabad Grill,Islamabad,Pakistani,islamabadgrill@example.com,grill789
+9,Peshawar Kabab House,Peshawar,Pakistani,peshawarkababhouse@example.com,kabab101

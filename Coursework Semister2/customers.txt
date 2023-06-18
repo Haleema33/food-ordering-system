@@ -1,0 +1,8 @@
+1,John Doe,johndoe@example.com,password123
+2,Jane Smith,janesmith@example.com,securePass456
+3,Saif,saif@gmail.com,pass77
+4,darab,darab@gmail.com,pass000
+5,kanwal khan,kanwalikhan@gmail.com,Mefco1956
+6,sameer,sameer@gmail.com,asdfghjkl
+7,sharjeel,sharjeel@gmail.com,qwertyuiop
+8,khal,khal@gmail.com,asdfghjkl

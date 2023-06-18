@@ -1,0 +1,6 @@
+Timmys,Islamabad,Fast Food,duraid@gmail.com,pass444,denied
+Hardees,Islamabad,Fast Food,hardees@gmail.com,passsword0,accepted
+McDonalds,Karachi,Fast Food,mcdonalds@gmail.com,qqq123,accepted
+Pizza Hut,Lahore,Fast Food,pizzahut@gmail.com,pizza555,denied
+Habbi,Lahore,Desi,habbi@gmal.com,habbi123,pending
+KFC,karachi,Fast Food,kfc@gmail.com,kfc888,denied
